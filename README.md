@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Srujan Yamali (SomeOne1Random) 👋</h1>
+<h1 align="center">Hi, I'm Srujan Yamali</h1>
 
 <p align="center">
   I'm currently diving into <b>Python for Machine Learning</b> with a focus on <b>Computer Vision</b>. 
