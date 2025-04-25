@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Systems-thinker | Researcher | Builder</strong><br/>
-  UC Berkeley — Molecular & Cellular Biology + Computer Science
+   Molecular & Cellular Biology + Computer Science @ UC Berkeley
 </p>
 
 <p align="center">
