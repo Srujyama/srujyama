@@ -1,19 +1,19 @@
-<h1 align="center">Hey, I'm Srujan</h1>
+<h1 align="center">Hi, I'm Srujan</h1>
 
 <p align="center">
-  <strong>Systems-thinker | Researcher | Builder</strong><br/>
+  <strong>Student | Researcher | Developer</strong><br/>
    Molecular & Cellular Biology + Computer Science @ UC Berkeley
 </p>
 
 <p align="center">
-  <em>Bridging biology, computation, and finance with code and curiosity.</em>
+  <em>Bridging biology, computation, and finance with code and dedication.</em>
 </p>
 
 ---
 
 ### About Me
 
-I'm a researcher working at the intersection of biological systems, machine learning, and quantitative analysis. Whether I’m decoding fruit fly behavior in a lab, modeling ecological decisions with deep learning, or designing bioinformatics pipelines at scale — my work is driven by one question:
+I'm a researcher working at the intersection of biological systems, machine learning, and quantitative analysis. Whether I’m decoding fruit fly behavior in a lab using computer vision, modeling ecological decisions with deep learning, or designing bioinformatics pipelines at scale — my work is driven by one question:
 
 > _"How do we build smarter systems that understand the world?"_
 
@@ -52,11 +52,11 @@ I'm a researcher working at the intersection of biological systems, machine lear
 ### Research Map
 
 Research hosted at:
-- UC Berkeley (CHAI, BAIR)  
+- UC Berkeley (CHAI)
+- UD – Shao Lab  
 - CHOP – Moustafa Lab  
 - Cornell – Hein Lab  
 - Princeton – Genomics Collaboration  
-- Singapore Government – AI Safety & Policy
 
 ---
 
@@ -79,12 +79,8 @@ Research hosted at:
   <a href="mailto:srujanyamali@berkeley.edu">
     <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="30" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://shriyan.tech" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" alt="Website"/>
-  </a>
 </p>
 
 ---
 
-<sub>README dynamically written — just like the systems I build.</sub>
+<sub>@Srujyama Everywhere</sub>
