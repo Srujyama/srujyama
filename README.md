@@ -72,9 +72,6 @@ Research hosted at:
 ### Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/srujanyamali" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
-  </a>
   &nbsp;&nbsp;
   <a href="mailto:srujanyamali@berkeley.edu">
     <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="30" alt="Email"/>
@@ -85,4 +82,7 @@ Research hosted at:
 
 <sub> 
   <p>@Srujyama Everywhere</p>
+    <a href="https://www.linkedin.com/in/srujanyamali" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
+  </a>
 </sub>
