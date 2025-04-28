@@ -9,14 +9,12 @@
   <em>Bridging biology, computation, and finance with code and dedication.</em>
 </p>
 
-<center>
-  <a href="https://www.linkedin.com/in/srujanyamali" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
-  </a>
-  <a href="mailto:srujanyamali@berkeley.edu">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="30" alt="Email" />
-  </a>
-</center>
+<a align="center href="https://www.linkedin.com/in/srujanyamali" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+</a>
+<a href="mailto:srujanyamali@berkeley.edu">
+  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="30" alt="Email" />
+</a>
 
 
 ---
