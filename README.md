@@ -67,17 +67,6 @@ Research hosted at:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 </p>
 
----
-
-### Let's Connect
-
-<p align="center">
-  &nbsp;&nbsp;
-
-</p>
-
----
-
 <sub>
   <a href="https://www.linkedin.com/in/srujanyamali" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
