@@ -85,6 +85,7 @@ Research hosted at:
   <a href="mailto:srujanyamali@berkeley.edu">
     <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="30" alt="Email" />
   </a>
+  @Srujyama Everywhere
 </sub>
 
 
