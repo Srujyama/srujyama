@@ -73,16 +73,18 @@ Research hosted at:
 
 <p align="center">
   &nbsp;&nbsp;
-  <a href="mailto:srujanyamali@berkeley.edu">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="30" alt="Email"/>
-  </a>
+
 </p>
 
 ---
 
-<sub> 
-  <p>@Srujyama Everywhere</p>
-    <a href="https://www.linkedin.com/in/srujanyamali" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
+<sub>
+  <a href="https://www.linkedin.com/in/srujanyamali" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:srujanyamali@berkeley.edu">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="30" alt="Email" />
   </a>
 </sub>
+
+
