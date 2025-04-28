@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Srujan</h1>
 
 <p align="center">
-  <strong>srujanyamali@berkeley.edu<strong><br/>
-   Molecular & Cellular Biology + Computer Science @ UC Berkeley
+  <strong>Molecular & Cellular Biology + Computer Science @ UC Berkeley<strong><br/>
+          srujanyamali@berkeley.edu
 </p>
 
 <p align="center">
