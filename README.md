@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <span style="color:#FDB515;">Srujan</span></h1>
 
 <p align="center" style="font-size: 1.1em; margin-top: -10px;">
-  <strong>Molecular &amp; Cellular Biology + Computer Science</strong><br/>
+  <strong>Molecular &amp; Cellular Biology + Computer Science</strong>
   <strong>@ UC Berkeley</strong><br/>
   <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: inherit;">srujanyamali@berkeley.edu</a>
 </p>
