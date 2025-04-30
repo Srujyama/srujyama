@@ -1,12 +1,13 @@
-<h1 align="center">Hi, I'm Srujan</h1>
+<h1 align="center">Hi, I'm <span style="color:#FDB515;">Srujan</span></h1>
 
-<p align="center">
-  <strong>Molecular & Cellular Biology + Computer Science @ UC Berkeley<strong><br/>
-          srujanyamali@berkeley.edu
+<p align="center" style="font-size: 1.1em; margin-top: -10px;">
+  <strong>Molecular &amp; Cellular Biology + Computer Science</strong><br/>
+  <strong>@ UC Berkeley</strong><br/>
+  <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: inherit;">srujanyamali@berkeley.edu</a>
 </p>
 
-<p align="center">
-  <em>Bridging biology, computation, and finance with code and dedication.</em>
+<p align="center" style="font-style: italic; color: #555;">
+  Bridging biology, computation, and finance with code and dedication.
 </p>
 
 
