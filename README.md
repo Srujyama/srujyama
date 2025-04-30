@@ -26,26 +26,24 @@ I'm a researcher working at the intersection of biological systems, machine lear
 
 ### Current Projects
 
-- Building behavior-analysis pipelines for neurogenetic research  
-- Applying deep learning to model fish movement & ecological interaction  
+- Building programs to find recombinant genes to identify mobile genetic elements (MGE)
+- Applying deep learning to model and re-construct the network of interactions in microbial sponge genomes 
 - Exploring how genomic pattern detection translates to market prediction  
-- Creating neural net visualizations to represent interdisciplinary project networks
 
 ---
 
 ### Currently Exploring
 
-- LLM safety and benchmarking  
 - Time series modeling for quantitative finance  
-- Bioinformatics tooling for protein recombination  
-- History of revolutionary thought (Jefferson to genomics)
+- Bioinformatics tooling for microbiome network models
+- Stochastic gene expression impacts recombination 
 
 ---
 
 ### Research Map
 
 Research hosted at:
-- UC Berkeley (CHAI)
+- UC Berkeley
 - UD – Shao Lab  
 - CHOP – Moustafa Lab  
 - Cornell – Hein Lab  
