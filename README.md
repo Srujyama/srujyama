@@ -19,7 +19,7 @@ I'm a researcher working at the intersection of biological systems, machine lear
 
 > _"How do we build smarter systems that understand the world?"_
 
-- Research at CHAI, CHOP, Princeton, Cornell, and UD  
+- Research at Berkeley, CHOP, Princeton, Cornell, and UD  
 - Exploring how we can model complex and often stochastic biological patterns 
 - Exploring quantitative trading, data structures for finance, and model-driven markets
 
