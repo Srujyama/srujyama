@@ -45,10 +45,10 @@ I'm a researcher working at the intersection of biological systems, machine lear
 
 Research hosted at:
 - UC Berkeley
-- UD – Shao Lab  
+- UDel – Shao Lab  
 - CHOP – Moustafa Lab  
 - Cornell – Hein Lab  
-- Princeton – Genomics Collaboration  
+- Princeton – Genomics Collaboration w/ Gertrud Schüpbach 
 
 ---
 
