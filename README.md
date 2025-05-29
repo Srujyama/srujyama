@@ -10,7 +10,6 @@
   Bridging biology, computation, and finance with code and dedication.
 </p>
 
-<hr/>
 
 <h2>About Me</h2>
 <p style="font-size: 1em; color: #333;">
@@ -29,8 +28,6 @@
   <li>Exploring quantitative trading, data structures for finance, and model-driven markets</li>
 </ul>
 
-<hr/>
-
 <h2>Current Projects</h2>
 <ul style="color:#333;">
   <li>Programs to find recombinant genes and mobile genetic elements (MGEs)</li>
@@ -38,7 +35,6 @@
   <li>Genomic pattern detection and its relevance in market prediction</li>
 </ul>
 
-<hr/>
 
 <h2>Currently Exploring</h2>
 <ul style="color:#333;">
@@ -47,7 +43,7 @@
   <li>Stochastic gene expression and its role in recombination</li>
 </ul>
 
-<hr/>
+
 
 <h2>Research Map</h2>
 <ul style="color:#333;">
@@ -57,8 +53,6 @@
   <li><strong>Cornell</strong> – Hein Lab</li>
   <li><strong>Princeton</strong> – Genomics Collaboration w/ Gertrud Schüpbach</li>
 </ul>
-
-<hr/>
 
 <h2>Tech Stack</h2>
 <p>
@@ -80,8 +74,6 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
 </p>
-
-<hr/>
 
 <p style="font-size: 0.9em; color: #666;">
   <strong>@Srujyama</strong> Everywhere
