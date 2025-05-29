@@ -11,8 +11,6 @@
 </p>
 
 
----
-
 ### About Me
 
 I'm a researcher working at the intersection of biological systems, machine learning, and quantitative analysis. Whether I’m decoding fruit fly behavior in a lab using computer vision, modeling ecological decisions with deep learning, or designing bioinformatics pipelines at scale — my work is driven by one question:
@@ -49,8 +47,6 @@ Research hosted at:
 - CHOP – Moustafa Lab  
 - Cornell – Hein Lab  
 - Princeton – Genomics Collaboration w/ Gertrud Schüpbach 
-
----
 
 <div align="left">
   <h2>Tech Stack 💻</h2>
