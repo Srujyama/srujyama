@@ -52,7 +52,6 @@ Research hosted at:
 
 ---
 
-### Tech Stack
 <div align="left">
   <h2>Tech Stack 💻</h2>
   <img
