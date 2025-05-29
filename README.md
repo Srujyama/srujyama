@@ -44,15 +44,16 @@
 </ul>
 
 
+### Research Affiliations
 
-<h2>Research Map</h2>
-<ul style="color:#333;">
-  <li><strong>UC Berkeley</strong></li>
-  <li><strong>UDel</strong> – Shao Lab</li>
-  <li><strong>CHOP</strong> – Moustafa Lab</li>
-  <li><strong>Cornell</strong> – Hein Lab</li>
-  <li><strong>Princeton</strong> – Genomics Collaboration w/ Gertrud Schüpbach</li>
-</ul>
+| Institution | Lab | Location |
+|-------------|-----|----------|
+| ![Berkeley](https://upload.wikimedia.org/wikipedia/commons/6/6e/Seal_of_University_of_California%2C_Berkeley.svg) | CHAI | Berkeley, CA |
+| ![UDel](https://www.udel.edu/content/dam/udelImages/global/images/ud-seal-ocm.png) | Shao Lab | Newark, DE |
+| ![CHOP](https://upload.wikimedia.org/wikipedia/en/e/e0/Childrens_Hospital_of_Philadelphia_logo.svg) | Moustafa Lab | Philadelphia, PA |
+| ![Princeton](https://upload.wikimedia.org/wikipedia/en/7/71/Princeton_seal.svg) | Genomics | Princeton, NJ |
+| ![Cornell](https://upload.wikimedia.org/wikipedia/en/4/43/Cornell_University_seal.svg) | Hein Lab | Ithaca, NY |
+
 
 <h2>Tech Stack</h2>
 <p>
