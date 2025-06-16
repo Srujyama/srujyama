@@ -27,23 +27,6 @@
   <li>Exploring quantitative trading, data structures for finance, and model-driven markets</li>
 </ul>
 
-<h2>Current Projects</h2>
-<ul style="color:#333;">
-  <li>Programs to find recombinant genes and mobile genetic elements (MGEs)</li>
-  <li>Deep learning models reconstructing microbial sponge genome networks</li>
-  <li>Genomic pattern detection and its relevance in market prediction</li>
-  <li>Time series modeling for quantitative finance</li>
-</ul>
-
-<h2>Research Map</h2>
-<ul style="color:#333;">
-  <li><strong>UC Berkeley</strong></li>
-  <li><strong>UDel</strong> – Shao Lab</li>
-  <li><strong>CHOP</strong> – Moustafa Lab</li>
-  <li><strong>Cornell</strong> – Hein Lab</li>
-  <li><strong>Princeton</strong> – Genomics Collaboration w/ Gertrud Schüpbach</li>
-</ul>
-
 <h2>Tech Stack</h2>
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -64,6 +47,23 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
 </p>
+
+<h2>Current Projects</h2>
+<ul style="color:#333;">
+  <li>Programs to find recombinant genes and mobile genetic elements (MGEs)</li>
+  <li>Deep learning models reconstructing microbial sponge genome networks</li>
+  <li>Genomic pattern detection and its relevance in market prediction</li>
+  <li>Time series modeling for quantitative finance</li>
+</ul>
+
+<h2>Research Map</h2>
+<ul style="color:#333;">
+  <li><strong>UC Berkeley</strong></li>
+  <li><strong>UDel</strong> – Shao Lab</li>
+  <li><strong>CHOP</strong> – Moustafa Lab</li>
+  <li><strong>Cornell</strong> – Hein Lab</li>
+  <li><strong>Princeton</strong> – Genomics Collaboration w/ Gertrud Schüpbach</li>
+</ul>
 
 <p style="font-size: 0.9em; color: #666;">
   <strong>@Srujyama</strong> Everywhere
