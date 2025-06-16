@@ -32,17 +32,8 @@
   <li>Programs to find recombinant genes and mobile genetic elements (MGEs)</li>
   <li>Deep learning models reconstructing microbial sponge genome networks</li>
   <li>Genomic pattern detection and its relevance in market prediction</li>
-</ul>
-
-
-<h2>Currently Exploring</h2>
-<ul style="color:#333;">
   <li>Time series modeling for quantitative finance</li>
-  <li>Bioinformatics tools for microbiome network modeling</li>
-  <li>Stochastic gene expression and its role in recombination</li>
 </ul>
-
-
 
 <h2>Research Map</h2>
 <ul style="color:#333;">
