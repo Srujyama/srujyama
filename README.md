@@ -5,7 +5,6 @@
 </p>
 
 <p align="center" style="font-style: italic; color: #666; font-size: 1em;">
-  Bridging biology, computation, and finance with code and dedication. <br/>
   <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: #444;">srujanyamali@berkeley.edu</a>
 </p>
 
