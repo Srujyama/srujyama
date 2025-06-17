@@ -5,9 +5,6 @@
   <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: #444;">srujanyamali@berkeley.edu</a>
 </p>
 
-<p align="center" style="font-style: italic; color: #666; font-size: 1em;">
-</p>
-
 <h2>About Me</h2>
 <p style="font-size: 1em; color: #333;">
   I'm a researcher working at the intersection of biological systems, machine learning, and quantitative analysis.
