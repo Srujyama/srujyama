@@ -2,10 +2,10 @@
 
 <p align="center" style="font-size: 1.2em; margin-top: -10px; color: #444;">
   <strong>Molecular &amp; Cellular Biology + Computer Science @ UC Berkeley</strong><br/>
+  <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: #444;">srujanyamali@berkeley.edu</a>
 </p>
 
 <p align="center" style="font-style: italic; color: #666; font-size: 1em;">
-  <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: #444;">srujanyamali@berkeley.edu</a>
 </p>
 
 <h2>About Me</h2>
