@@ -17,7 +17,7 @@
 </blockquote>
 
 <ul style="color:#333;">
-  <li>Research at Berkeley, CHOP, Princeton, Cornell, and UD</li>
+  <li>Performed research at Berkeley, UPenn, Princeton, Cornell, and UDel</li>
   <li>Exploring how we can model complex and often stochastic biological patterns</li>
   <li>Exploring quantitative trading, data structures for finance, and model-driven markets</li>
 </ul>
