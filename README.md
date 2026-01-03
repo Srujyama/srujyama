@@ -7,13 +7,12 @@
 
 <h2>About Me</h2>
 <p style="font-size: 1em; color: #333;">
-  I'm a researcher working at the intersection of biological systems, machine learning, and quantitative analysis.
-  Whether I’m decoding fruit fly behavior in a lab using computer vision, modeling ecological decisions with deep learning,
-  or designing bioinformatics pipelines at scale — my work is driven by one question:
+  I am a computer science researcher measuring how frontier AI models can be used to perform real world tasks. From there, I develop machine learning models to see how we can improve on these models.
+  Additionally, I have been interested in applying this work to biological applications, particularly computer vision for behavior analysis through deep learning. This is all motivated by one question:
 </p>
 
 <blockquote style="font-style: italic; color: #555; border-left: 4px solid #FDB515; padding-left: 1em;">
-  "How do we build smarter systems that understand the world?"
+  "How can we learn from past data to create the future?"
 </blockquote>
 
 <ul style="color:#333;">
