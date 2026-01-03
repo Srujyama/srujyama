@@ -2,7 +2,6 @@
   <strong>Neuroscience + Computer Science @ UC Berkeley</strong><br/>
 </h2>
 
-<h2>About Me</h2>
 <p style="font-size: 1em; color: #333;">
   I am a computer science researcher studying how machine learning models can be applied to perform real-world tasks.
   I have been interested in applying this work to biological applications, particularly computer vision for behavior analysis through deep learning. This work has been motivated by one question:
