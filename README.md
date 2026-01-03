@@ -13,17 +13,15 @@
   "How can we learn from past data to create the future?"
 </blockquote>
 
-<p style="font-size: 1em; color: #333;">
-  I am always interested in doing research, so send me a message at <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: #444;">srujanyamali@berkeley.edu</a>!
-</p>
-
-
-
 <ul style="color:#333;">
   <li>Performed research at Berkeley, UPenn, Princeton, Cornell, and UDel</li>
   <li>Exploring how we can model complex and often stochastic biological patterns</li>
   <li>Contributed to research finding how frontier AI models can perform real, economically valuable professional work</li>
 </ul>
+
+<p style="font-size: 1em; color: #333;">
+  I am always interested in doing research or working on machine learning models, so send me a message at <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: #444;">srujanyamali@berkeley.edu</a>! 
+</p>
 
 <h2>Research Map</h2>
 <ul style="color:#333;">
