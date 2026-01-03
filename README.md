@@ -33,7 +33,7 @@
 <h2>Work Experience</h2>
 <ul style="color:#333;">
   <li><strong>Mercor</strong></li>
-  <li><strong>Visa</strong>/li>
+  <li><strong>Visa</strong></li>
 </ul>
 
 <p style="font-size: 0.9em; color: #666;">
