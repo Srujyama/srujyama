@@ -7,8 +7,8 @@
 
 <h2>About Me</h2>
 <p style="font-size: 1em; color: #333;">
-  I am a computer science researcher measuring how frontier AI models can be used to perform real world tasks. From there, I develop machine learning models to see how we can improve on these models.
-  Additionally, I have been interested in applying this work to biological applications, particularly computer vision for behavior analysis through deep learning. This is all motivated by one question:
+  I am a computer science researcher studying how machine learning models can be applied to perform real-world tasks.
+  I have been interested in applying this work to biological applications, particularly computer vision for behavior analysis through deep learning. This work has been motivated by one question:
 </p>
 
 <blockquote style="font-style: italic; color: #555; border-left: 4px solid #FDB515; padding-left: 1em;">
@@ -18,14 +18,14 @@
 <ul style="color:#333;">
   <li>Performed research at Berkeley, UPenn, Princeton, Cornell, and UDel</li>
   <li>Exploring how we can model complex and often stochastic biological patterns</li>
-  <li>Exploring quantitative trading, data structures for finance, and model-driven markets</li>
+  <li>Contributed to research finding how frontier AI models can perform real, economically valuable professional work</li>
 </ul>
 
 <h2>Research Map</h2>
 <ul style="color:#333;">
   <li><strong>UC Berkeley</strong></li>
   <li><strong>UDel</strong> – Shao Lab</li>
-  <li><strong>CHOP</strong> – Moustafa Lab</li>
+  <li><strong>UPenn</strong> – Moustafa Lab at the Children's Hospital of Philadelphia </li>
   <li><strong>Cornell</strong> – Hein Lab</li>
   <li><strong>Princeton</strong> – Genomics Collaboration w/ Gertrud Schüpbach</li>
 </ul>
