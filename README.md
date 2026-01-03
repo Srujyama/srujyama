@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 1.2em; margin-top: -10px; color: #444;">
+<h2 align="center" style="font-size: 1.2em; margin-top: -10px; color: #444;">
   <strong>Neuroscience + Computer Science @ UC Berkeley</strong><br/>
-</p>
+</h2>
 
 <h2>About Me</h2>
 <p style="font-size: 1em; color: #333;">
