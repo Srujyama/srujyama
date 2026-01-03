@@ -30,6 +30,12 @@
   <li><strong>Princeton</strong> – Genomics Collaboration w/ Gertrud Schüpbach</li>
 </ul>
 
+<h2>Work Experience</h2>
+<ul style="color:#333;">
+  <li><strong>Mercor</strong></li>
+  <li><strong>Visa</strong> – Shao Lab</li>
+</ul>
+
 <p style="font-size: 0.9em; color: #666;">
   <strong>@Srujyama</strong> Everywhere
 </p>
