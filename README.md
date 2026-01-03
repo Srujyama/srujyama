@@ -13,6 +13,12 @@
   "How can we learn from past data to create the future?"
 </blockquote>
 
+<p style="font-size: 1em; color: #333;">
+  I am always interested in doing research, so send me a message at <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: #444;">srujanyamali@berkeley.edu</a>!
+</p>
+
+
+
 <ul style="color:#333;">
   <li>Performed research at Berkeley, UPenn, Princeton, Cornell, and UDel</li>
   <li>Exploring how we can model complex and often stochastic biological patterns</li>
