@@ -25,7 +25,7 @@
 <ul style="color:#333;">
   <li><strong>UC Berkeley</strong></li>
   <li><strong>UDel</strong> @ Shao Lab</li>
-  <li><strong>UPenn</strong> @ Moustafa Lab at the Children's Hospital of Philadelphia </li>
+  <li><strong>UPenn</strong> @ Moustafa Lab</li>
   <li><strong>Cornell</strong> @ Hein Lab</li>
   <li><strong>Princeton</strong> – Genomics Collaboration w/ Gertrud Schüpbach</li>
 </ul>
