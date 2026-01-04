@@ -13,7 +13,7 @@
 
 <ul style="color:#333;">
   <li>Performed research at Berkeley, UPenn, Princeton, Cornell, and UDel</li>
-  <li>Exploring how we can model complex and often stochastic biological patterns</li>
+  <li>Exploring how we can model complex and often stochastic patterns in biology & other fields.</li>
   <li>Contributed to research finding how frontier AI models can perform real, economically valuable professional work</li>
 </ul>
 
