@@ -18,7 +18,8 @@
 </ul>
 
 <p style="font-size: 1em; color: #333;">
-  I am always interested in doing research or working on machine learning models, so send me a message at <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: #444;">srujanyamali@berkeley.edu</a>! 
+  I am always interested in doing research or working on machine learning models, especially in areas where computer science intersects with biology. I am also very interested in collaborating on startup ideas and entrepreneurial projects. If you are working on something exciting—whether research or a startup—feel free to reach out at 
+  <a href="mailto:srujanyamali@berkeley.edu" style="text-decoration: none; color: #444;">srujanyamali@berkeley.edu</a>!
 </p>
 
 <h2>Research Map</h2>
