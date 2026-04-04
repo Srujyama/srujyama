@@ -38,5 +38,5 @@
 </ul>
 
 <p style="font-size: 0.9em; color: #666;">
-  <strong>@Srujyama</strong> Everywhere
+  <strong>@Srujyama</strong> Everywhere | All projects on this GitHub are mine unless otherwise stated
 </p>
