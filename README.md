@@ -1,5 +1,5 @@
 <h2 align="center" style="font-size: 1.2em; margin-top: -10px; color: #444;">
-  <strong>Neuroscience + Computer Science @ UC Berkeley</strong><br/>
+  <strong>Computer Science @ UC Berkeley</strong><br/>
 </h2>
 
 <p style="font-size: 1em; color: #333;">
